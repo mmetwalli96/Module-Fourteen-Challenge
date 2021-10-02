@@ -26,6 +26,8 @@ To summarize, these points can be deduced from the above table :
 - The usage of bikes is in high demand when people go to and leave work during the week days.
 - One time users don't use bike often as subscribed ones. 
 
+These two visualizations can be added, each one will be for the start and end location name, with their longitude and latitute to identify loaction on a map with marker size varying based on the count of riders. 
+
 
 
 
