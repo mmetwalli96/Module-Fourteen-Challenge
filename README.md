@@ -20,11 +20,6 @@ So that they will be used later on to pitch the investors.
 |![Capture 148](https://user-images.githubusercontent.com/59425631/135705917-12dfb8cb-84fe-48d3-8985-197617522c94.PNG)![Capture 152](https://user-images.githubusercontent.com/59425631/135706030-9c8ad1e2-b298-4be6-8195-131d0ea4decb.PNG)|This figure confirms what was mentioned earlier, the usage is in high demand when people go to and leave work and most users are males. In addition to that, significant need for bikes is during weekdays |
 |![Capture 153](https://user-images.githubusercontent.com/59425631/135706120-14c94450-0e27-41f6-b7a7-766141973da5.PNG)| Subscribed users use the bikes more often than the unsubscribed ones|
 
-From the above tables these points can be deduced:
-- The majority of users are males.
-- The usage of bikes is in high demand when people go to and leave work during the week days.
-- One time users don't use bike often as subscribed ones. 
-
 ## Summary
 To summarize, these points can be deduced from the above table :
 - The majority of users are males.
