@@ -29,7 +29,7 @@ To summarize, these points can be deduced from the above table :
 These two visualizations can be added, each one will be for the start and end location name, with their longitude and latitute to identify loaction on a map with marker size varying based on the count of riders. 
 
 
-[link to dashboard](LINK GOES HERE "https://public.tableau.com/views/CitiBikeAnalysis_16326256556190/CheckoutTimesForUsers?:language=en-US&:display_count=n&:origin=viz_share_link")
+[link to dashboard]("https://public.tableau.com/views/CitiBikeAnalysis_16326256556190/CheckoutTimesForUsers?:language=en-US&:display_count=n&:origin=viz_share_link")
 
 
 
