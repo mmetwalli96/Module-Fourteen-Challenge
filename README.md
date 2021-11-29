@@ -26,10 +26,10 @@ To summarize, these points can be deduced from the above table :
 - The usage of bikes is in high demand when people go to and leave work during the weekdays.
 - One-time users don't use bikes often as subscribed ones. 
 
-These two visualizations can be added, each one will be for the start and end location name, with their longitude and latitude to identify locations on a map with marker size varying based on the count of riders. 
+Suggested visualizations to be added are one for the start and the second for the end location name, with longitude and latitude to identify locations on a map with marker size varying based on the count of riders. 
 
 
-[link to dashboard]("https://public.tableau.com/views/CitiBikeAnalysis_16326256556190/CheckoutTimesForUsers?:language=en-US&:display_count=n&:origin=viz_share_link")
+<a href = "https://public.tableau.com/views/CitiBikeAnalysis_16326256556190/CheckoutTimesForUsers?:language=en-US&:display_count=n&:origin=viz_share_link">WorkBook Link</a>
 
 
 
